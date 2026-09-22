@@ -1,0 +1,16 @@
+export default {
+  DATABASE_DISCONNECTED: "❌ Unable to connect to the database:",
+  INVALID_TOKEN: "Invalid refresh token",
+  UNAUTHORIZED: "Unauthorized Token",
+  TOKEN_EXPIRY: "Token Expired or Invalid Token",
+  TOKEN_NOT_FOUND: "Token not found",
+  PAGE_EXCEEDED: "Page limit Exceeded",
+  NODATA: "No Data found for this request",
+  NO_USER: "User not found",
+  PASSWORD_INCORRECT: "Incorrect Password",
+  UNABLE_TO_CREATE: "Unable to create this data",
+  UNABLE_TO_UPDATE: "Unable to update this data",
+  UNABLE_TO_DELETE: "Unable to delete this data",
+  UPLOAD_FAILED: "File Upload Failed",
+  ID_ALREADY_EXIST: "ID Already Exist",
+};
